@@ -1,4 +1,4 @@
-This is a burger place landing page project.
+This is a  landing page project for Burger Palace Website.
 
 Languages Used:
 HTML for teh website page
