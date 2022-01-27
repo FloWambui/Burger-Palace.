@@ -119,7 +119,8 @@
     weight: 70px;
 }
 .Menu{
-    height: 900px;
+    height: 90vh;
+    width: 80%;
     /* border: 1px solid red; */
     display: flex;
     justify-content: center;
