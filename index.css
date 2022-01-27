@@ -118,6 +118,63 @@
     height: 90px;
     weight: 70px;
 }
+.Menu{
+    height: 900px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    
+}
+.items{
+    height: 450px;
+    width: 300px;
+    border: 1px solid maroon;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    align-items: center;
+}
+.title{
+    border: 1px solid green;
+    display: flex;
+}
+#ttl{
+    color: rgb(247,193,50);
+    margin-left: 50px;
+    /* margin-top: 200px; */
+}
+#burger1{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
+#burger2{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
+#burger3{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
+#burger4{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
+#burger5{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
+#burger6{
+    height: 200px;
+    width: 150px;
+    /* justify-content: center; */
+}
 .discovermore{
     background-color: orange;
     height: 100vh;
