@@ -1,0 +1,147 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+/* .html{
+    height: 100%;
+    width: 100%;
+} */
+.landingpage{
+    height: 100vh;
+        
+}
+.home{
+    float: right;
+    margin-top: -100px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    max-height: 100px;
+}
+.logo h1{
+    align-items: center;
+    padding: 0px;
+    margin-top: 30px;
+    align-items: center;
+    
+}
+.logo h1 span{
+    color: yellow;
+}
+#pages li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+#pages li a{
+    color: black;
+    font-weight: bolder;
+    display: flex;
+    font-size: x-large;
+    margin-top: 30px;
+    
+    
+}
+#pages a:hover{
+    color: orangered;
+    transition: 0.5ms;
+}
+#pages a:hover::after{
+    width: 100px;
+}
+.welcomenote{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: -100px;
+}
+.rain h1{
+    display: flex;
+    flex-basis: 50%;
+    min-width: 100px;
+    height: 100px;
+    margin: 100px;
+    padding: 30px;
+    align-items: flex-start;
+
+}
+.rain p{
+    display: flex;
+    flex-basis: 50%;
+    min-width: 100px;
+    height: 100px;
+    margin: 300px;
+    padding: 30px;
+    align-items: flex-start;
+
+}
+.display{
+    float: right;
+    flex-direction: row;
+    margin: -300px;
+    height: 100%;
+    background-size: 100%;
+    /* background-color: rgba(253, 125, 5, 1); */
+    -webkit-transition: transform 250ms;
+    
+}
+.display img{
+    margin-top: ;
+    height: 100%;
+    max-width: 100%;
+    margin: -0px;
+    padding-right: 200px
+
+}
+.button{
+    display: inline-block;
+    background: chocolate;
+    padding: 8px 30px;
+    margin: 30px 20px;
+    border-radius: 30px;
+    
+}
+.button:hover{
+    color: white;
+}
+.values{
+    background-color: lightcyan;
+    padding-top: 200px;
+    opacity: 0.7;
+    height: 100%;
+} 
+/* .box{
+    display: grid;
+    padding: 10px;
+    
+    
+}
+.deets{
+    border: 10px lightgrey;
+    width 200px
+    padding: 50px
+    margin: 20px;
+    background: #fff;
+    text-align: center;
+    border-radius: 35px;
+    text-align: center;
+    box-shadow: 5px;
+}
+.deets p{
+    font-size: 10px;
+    margin: 10px;
+    color: rosybrown;
+}
+.deets h2{
+    color: seashell;
+    font-size: 12px;
+}
+.deets img{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    border-radius: 30%;
+} */ */
