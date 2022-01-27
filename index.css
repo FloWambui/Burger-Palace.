@@ -39,6 +39,10 @@
 .logo{
     display: flex;
 }
+.welcomenote{
+    margin-left: 30px;
+    margin-top: 50px;
+}
 .discovermore{
     background-color: orange;
     height: 100vh;
