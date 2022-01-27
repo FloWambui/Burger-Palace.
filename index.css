@@ -29,6 +29,13 @@
     margin-right: 200px;
     
 }
+.logoname{
+    font-size: 30px;
+    padding-top: 10px;
+}
+#pin{
+    color: rgb(247,193,50);
+}
 .logo{
     display: flex;
 }
