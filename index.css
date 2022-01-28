@@ -136,10 +136,13 @@
     margin-left: 50px;
     border-radius: 10px;
     align-items: center;
+    justify-content: space-around;
 }
 .title{
     border: 1px solid green;
     display: flex;
+    text-align: center;
+
 }
 #ttl{
     color: rgb(247,193,50);
