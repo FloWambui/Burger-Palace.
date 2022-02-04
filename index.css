@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
+    font-family: 'Poppins';
 }
 .landingpage{
     height: 800px;
@@ -243,19 +244,21 @@
     padding: 30px;
 }
 .discovermore{
-    background-color: orange;
+    background-color: #F6B400;
     height: 100vh;
-    /* display: flex; */
+    
 }
-/* .row{
-    margin: 100px;
-    padding: 100px;
-} */
+.evenmore{
+    margin: 5%;
+    padding-top: 15%;
+}
 .evenmore h2{
     font-size: 3em;    
 }
 .dicons img{
     height: 1.5cm;
+    padding: 0px 0px 0px 20px;
+    margin: 100px 0px ;
 }
 .specials{
     display: flex;
@@ -264,7 +267,7 @@
 }
 .specials img{
     height: 18cm;
-    margin-top: -100px;
+    margin-top: -700px;
 }
 
 .sitemap{
